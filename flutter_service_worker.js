@@ -47,14 +47,14 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "d80ca32233940ebadc5ae5372ccd67f9",
 "cat.jpg": "85b7e2805a1ec5b52b3efb44327e5389",
 "favicon.png": "a37e33588294a5b1393bb96c0ba48b0f",
-"index.html": "5130a34ec5f1a9ac06b69edf75c1aa43",
-"/": "5130a34ec5f1a9ac06b69edf75c1aa43",
+"index.html": "f6f98492ff6cf39f87b21c0e4aa1fc29",
+"/": "f6f98492ff6cf39f87b21c0e4aa1fc29",
 "js/custom.js": "21e99197686edc6696ef848540e95c40",
 "js/ml/iris/data.js": "e18e4dc5eed42d084f6a47ff426a1632",
 "js/ml/ml.js": "3f2fe78db14f14fc150c71cef6833ff1",
 "js/ml/mobilenet.js": "45ce6ab27b2f102ff2e67caa32cf8537",
 "logo.png": "0b1de2f2b3dd59124c9df61484771028",
-"main.dart.js": "638e36329a8d91c64876e091ae840197",
+"main.dart.js": "8678ede99309a7823c7d424b2747db43",
 "version.json": "929a6538066429a61538b9af9948522d"
 };
 
